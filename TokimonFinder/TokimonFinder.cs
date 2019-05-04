@@ -11,7 +11,7 @@ namespace TokimonFinder {
     private static int xCoordinate;
 
     public static void Main(string[] args) {
-        if(args.Length > 3) {
+        if(args.Length > 2) {
             Console.WriteLine("Wrong number of arguments");
             Environment.Exit(-1);
         }
