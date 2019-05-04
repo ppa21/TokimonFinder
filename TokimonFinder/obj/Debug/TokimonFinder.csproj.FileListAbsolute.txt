@@ -1,0 +1,6 @@
+/Users/pruthvirajpatel/RiderProjects/TokimonFinder/TokimonFinder/bin/Debug/TokimonFinder.exe
+/Users/pruthvirajpatel/RiderProjects/TokimonFinder/TokimonFinder/bin/Debug/TokimonFinder.pdb
+/Users/pruthvirajpatel/RiderProjects/TokimonFinder/TokimonFinder/obj/Debug/TokimonFinder.csprojAssemblyReference.cache
+/Users/pruthvirajpatel/RiderProjects/TokimonFinder/TokimonFinder/obj/Debug/TokimonFinder.csproj.CoreCompileInputs.cache
+/Users/pruthvirajpatel/RiderProjects/TokimonFinder/TokimonFinder/obj/Debug/TokimonFinder.exe
+/Users/pruthvirajpatel/RiderProjects/TokimonFinder/TokimonFinder/obj/Debug/TokimonFinder.pdb
